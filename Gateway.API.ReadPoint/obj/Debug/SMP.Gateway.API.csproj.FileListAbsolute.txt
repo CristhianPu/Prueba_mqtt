@@ -1,0 +1,134 @@
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Gateway.Api.Sample.GetPoint.exe.config
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Gateway.Api.Sample.GetPoint.exe
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Gateway.Api.Sample.GetPoint.pdb
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Gateway.Api.Client.Net.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Text.Json.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\RestSharp.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Buffers.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Memory.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Text.Json.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.AssemblyReference.cache
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\obj\Debug\Gateway.Api.Sample.GetPoint.Properties.Resources.resources
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.GenerateResource.cache
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.CopyComplete
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\obj\Debug\Gateway.Api.Sample.GetPoint.exe
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\obj\Debug\Gateway.Api.Sample.GetPoint.pdb
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\obj\Debug\Gateway.Api.ClaseAsincronica.resources
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\MQTTnet.dll
+C:\Users\User\Documents\API\Gateway.API.ReadPoint\bin\Debug\MQTTnet.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Gateway.Api.Sample.GetPoint.exe.config
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Gateway.Api.Sample.GetPoint.exe
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Gateway.Api.Sample.GetPoint.pdb
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Gateway.Api.Client.Net.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\MQTTnet.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Text.Json.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\RestSharp.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\MQTTnet.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Buffers.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Memory.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Text.Json.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.AssemblyReference.cache
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\obj\Debug\Gateway.Api.ReadPoint.resources
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\obj\Debug\Gateway.Api.Sample.GetPoint.Properties.Resources.resources
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.GenerateResource.cache
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\obj\Debug\SMP.Gateway.API.csproj.CopyComplete
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\obj\Debug\Gateway.Api.Sample.GetPoint.exe
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\obj\Debug\Gateway.Api.Sample.GetPoint.pdb
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Azure.Core.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Buffers.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Codecs.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Common.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Handlers.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Transport.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Memory.Data.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Azure.Core.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Buffers.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Codecs.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Common.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Handlers.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\DotNetty.Transport.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Azure.Devices.Client.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Azure.Devices.Shared.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Documents\SMP API MQTT\Gateway.API.ReadPoint\bin\Debug\System.Memory.Data.xml
